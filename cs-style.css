@@ -1583,7 +1583,7 @@ a.forumtitle {
   font-size: 15px;
   line-height: 1.2;
   letter-spacing: 0.2px;
-  color: var(--odysseus);
+  color: var(--odysseus) !important;
   margin: 0 0 8px 0 !important;
   padding: 0 !important;
 }
